@@ -36,7 +36,7 @@ const HomePage: React.FC = () => {
             </div>
             <div>
               <img 
-                src="https://lh6.googleusercontent.com/proxy/Y4cmt5CCD3gKa4PDG_U3PBD3YLSY4jt29Oag4XsQYbu1NvfnbkoJytWy-gsg7wmfuuq0unsX9KQ7lxg" 
+                src="https://assets-global.website-files.com/57b53051078103fe49d8683a/59ceab7384da1f0001aa665c_laptop-mockup-p-500.png" 
                 alt="College building" 
                 className="rounded-lg shadow-md h-full w-full object-cover" 
               />
